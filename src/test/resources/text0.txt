@@ -1,0 +1,41 @@
+
+                                 Place of Service Codes  for Professional Claims
+
+                                           Database (updated November   2016)
+
+            Listed below are place of service codes and descriptions. These codes should be
+            used on professional claims to specify the entity where service(s) were rendered.
+            Check with individual payers (e.g., Medicare, Medicaid, other private insurance)
+            for reimbursement policies regarding these codes. If you would  like to comment
+            on a code(s) or description(s), please send your request to posinfo@cms.hhs.gov.
+
+            NOTE:  Please direct questions related to billing place of service codes to your
+            Medicare Administrative Contractor (MAC)  for assistance, and not to
+            posinfo@cms.hhs.gov.
+
+            Place of        Place of Service               Place of Service Description
+            Service         Name
+            Code(s)
+            01              Pharmacy**                     A facility or location where drugs and other
+                                                           medically related items and services are sold,
+                                                           dispensed, or otherwise provided directly to
+                                                           patients.
+                                                           (Effective October 1, 2003)
+            02              Telehealth                     The location where health services and health
+                                                           related services are provided or received,
+                                                           through a telecommunication system.
+                                                           (Effective January 1, 2017)
+            03              School                         A facility whose primary purpose is education.
+                                                           (Effective January 1, 2003)
+            04              Homeless Shelter               A facility or location whose  primary purpose is
+                                                           to provide temporary hosing to homeless
+                                                           individuals (e.g., emergency shelters, individual
+                                                           or family shelters).
+                                                           (Effective January 1, 2003)
+            05              Indian Health                  A facility or location, owned and operated by
+                            Service Free-                  the Indian Health Service, which provides
+                            standing Facility              diagnostic, therapeutic (surgical and non-
+                                                           surgical), and rehabilitation services to
+                                                           American Indians and Alaska Natives who do
+                                                           not require hospitalization.
+                                                           (Effective January 1, 2003)

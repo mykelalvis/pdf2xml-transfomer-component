@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pdftsExtract>
+	<page number="0">
+		<block height="12.509644" width="277.59796" xpos="167.16" ypos="707.04">
+			<text>
+				<bold>Place of Service Codes for Professional Claims</bold>
+			</text>
+		</block>
+		<text>
+
+		</text>
+		<block height="12.509644" width="214.41083" xpos="198.84827"
+			ypos="674.88837">
+			<text>
+				<bold>Database (updated November 2016)</bold>
+			</text>
+		</block>
+		<text>
+
+		</text>
+		<block height="76.838745" width="454.6991" xpos="72.010925"
+			ypos="578.52">
+			<text>
+				Listed below are place of service codes and descriptions. These
+				codes should be
+				used on professional claims to specify the entity
+				where service(s) were
+				rendered.
+				Check with individual payers (e.g.,
+				Medicare, Medicaid, other private
+				insurance)
+				for reimbursement
+				policies regarding these codes. If you would like to
+				comment
+				on a
+				code(s) or description(s), please send your request to
+				<underlined>posinfo@cms.hhs.gov</underlined>
+				.
+			</text>
+		</block>
+		<text>
+
+		</text>
+		<block height="44.66748" width="442.25842" xpos="72.0" ypos="514.08">
+			<text>
+				NOTE: Please direct questions related to billing place of service
+				codes to your
+				Medicare Administrative Contractor (MAC) for
+				assistance, and not to
+				<underlined>posinfo@cms.hhs.gov</underlined>
+				.
+			</text>
+		</block>
+		<text>
+		</text>
+		<block height="421.56003" type="table" width="467.52002" xpos="72.240005"
+			ypos="72.84">
+			<block height="48.840027" width="62.760483" xpos="72.240005"
+				ypos="445.56">
+				<block height="44.789642" width="47.142097" xpos="77.64" ypos="448.92">
+					<text>
+						<bold>Place of Service Code(s)</bold>
+					</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="48.840027" width="121.55951" xpos="135.00049"
+				ypos="445.56">
+				<block height="28.58966" width="94.18732" xpos="140.4" ypos="465.12">
+					<text>
+						<bold>Place of Service Name	</bold>
+					</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="48.840027" width="283.2" xpos="256.56" ypos="445.56">
+				<block height="12.509644" width="166.9271" xpos="261.84" ypos="481.2">
+					<text>
+						<bold>Place of Service Description</bold>
+					</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="81.0" width="62.760483" xpos="72.240005" ypos="364.56">
+				<block height="12.509644" width="14.096153" xpos="77.64" ypos="432.6">
+					<text>01</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="81.0" width="121.55951" xpos="135.00049" ypos="364.56">
+				<block height="12.509644" width="70.018906" xpos="140.4" ypos="432.6">
+					<text>Pharmacy**</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="81.0" width="283.2" xpos="256.56" ypos="364.56">
+				<block height="76.949646" width="253.92001" xpos="261.84"
+					ypos="368.16">
+					<text>A facility or location where drugs and other medically
+						related items and services are sold, dispensed, or otherwise
+						provided directly to patients.
+						(Effective October 1, 2003)
+					</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="64.91998" width="62.760483" xpos="72.240005"
+				ypos="299.64">
+				<block height="12.509644" width="14.096153" xpos="77.64" ypos="351.6">
+					<text>02</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="64.91998" width="121.55951" xpos="135.00049"
+				ypos="299.64">
+				<block height="12.509644" width="59.106995" xpos="140.4" ypos="351.6">
+					<text>Telehealth</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="64.91998" width="283.2" xpos="256.56" ypos="299.64">
+				<block height="60.749664" width="255.74924" xpos="261.84"
+					ypos="303.36">
+					<text>The location where health services and health
+						related services
+						are provided or received,
+						through a telecommunication system.
+						(Effective January 1, 2017)
+					</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="32.640015" width="62.760483" xpos="72.240005"
+				ypos="267.0">
+				<block height="12.509644" width="14.096153" xpos="77.64" ypos="286.68">
+					<text>03</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="32.640015" width="121.55951" xpos="135.00049"
+				ypos="267.0">
+				<block height="12.509644" width="38.951157" xpos="140.4" ypos="286.68">
+					<text>School</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="32.640015" width="283.2" xpos="256.56" ypos="267.0">
+				<block height="28.58963" width="262.67245" xpos="261.84" ypos="270.6">
+					<text>A facility whose primary purpose is education.
+						(Effective
+						January 1, 2003)
+					</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="81.0" width="62.760483" xpos="72.240005" ypos="186.0">
+				<block height="12.509628" width="14.096153" xpos="77.64" ypos="254.04">
+					<text>04</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="81.0" width="121.55951" xpos="135.00049" ypos="186.0">
+				<block height="12.509628" width="98.51915" xpos="140.4" ypos="254.04">
+					<text>Homeless Shelter</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="81.0" width="283.2" xpos="256.56" ypos="186.0">
+				<block height="76.949615" width="269.0676" xpos="261.84" ypos="189.6">
+					<text>A facility or location whose primary purpose is
+						to provide
+						temporary hosing to homeless
+						individuals (e.g., emergency shelters,
+						individual
+						or family shelters).
+						(Effective January 1, 2003)
+					</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="113.16" width="62.760483" xpos="72.240005" ypos="72.84">
+				<block height="12.509644" width="14.096153" xpos="77.64" ypos="173.04">
+					<text>05</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="113.16" width="121.55951" xpos="135.00049" ypos="72.84">
+				<block height="44.665436" width="93.89125" xpos="140.4" ypos="140.8842">
+					<text>Indian Health
+						Service Free-
+						standing Facility
+					</text>
+				</block>
+			</block>
+			<text>
+			</text>
+			<block height="113.16" width="283.2" xpos="256.56" ypos="72.84">
+				<block height="109.109634" width="257.4313" xpos="261.84"
+					ypos="76.44">
+					<text>A facility or location, owned and operated by
+						the Indian
+						Health Service, which provides
+						diagnostic, therapeutic (surgical
+						and non-
+						surgical), and rehabilitation services to
+						American Indians
+						and Alaska Natives who do
+						not require hospitalization.
+						(Effective
+						January 1, 2003)
+					</text>
+				</block>
+			</block>
+		</block>
+	</page>
+</pdftsExtract>
