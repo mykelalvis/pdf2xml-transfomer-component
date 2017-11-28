@@ -51,6 +51,11 @@ import pdfts.examples.XMLOutputTarget;
 import javax.xml.transform.sax.*;
 import javax.xml.transform.stream.*;
 
+/**
+ * Uses pdfxstream to transform pdf into formatted text or xml
+ * @author mykel.alvis
+ *
+ */
 @Component(hint = "pdf-convert", role = PDFConvertComponent.class, instantiationStrategy = "per-instance", isolatedRealm = true)
 public class PDFConvertComponent {
   static StreamResult streamResult;
@@ -68,39 +73,6 @@ public class PDFConvertComponent {
         sb.append("\n\n\n");
       }
       CotivitiIOUtilities.writeString(Paths.get("target/myout.xml"), sb.toString());
-      //
-      //      Writer w = new StringWriter();
-      //      PrintWriter out = new PrintWriter(w);
-      //      PdfContentReaderTool.listContentStream(new File("target/test-classes/hello.pdf"), out);
-      //      PdfReader reader = new PdfReader("target/test-classes/hello.pdf");
-      //      Document document = new Document();
-      //      document.open();
-      //      RandomAccessSourceFactory fact = new RandomAccessSourceFactory();
-      //      RandomAccessFileOrArray foa = new RandomAccessFileOrArray(fact.createSource(reader.getPageContent(1)));
-      //      PRTokeniser tokenizer = new PRTokeniser(foa);
-      //
-      //      StringBuffer strbufe = new StringBuffer();
-      //      String strang = w.toString();
-      //      while (tokenizer.nextToken()) {
-      //        switch (tokenizer.getTokenType()) {
-      //        case STRING:
-      //          strbufe.append(tokenizer.getStringValue());
-      //          break;
-      //        default:
-      //          TokenType t = tokenizer.getTokenType();
-      //          String g = tokenizer.getStringValue();
-      //          String h = g;
-      //          TokenType t1 = t;
-      //          break;
-      //        }
-      //      }
-      //      String test = strbufe.toString();
-      //      streamResult = new StreamResult("target/data.xml");
-      //      initXML();
-      //      process(test);
-      //      closeXML();
-      //      document.add(new Paragraph(".."));
-      //      document.close();
     } catch (
 
     Exception e) {
@@ -119,7 +91,7 @@ public class PDFConvertComponent {
     handler.setResult(streamResult);
     handler.startDocument();
     atts = new AttributesImpl();
-    handler.startElement("", "", "Roseindia", atts);
+    handler.startElement("", "", "Cotiviti", atts);
   }
 
   public static void process(String s) throws SAXException {
@@ -131,7 +103,7 @@ public class PDFConvertComponent {
   }
 
   public static void closeXML() throws SAXException {
-    handler.endElement("", "", "Roseindia");
+    handler.endElement("", "", "Cotiviti");
     handler.endDocument();
   }
 
