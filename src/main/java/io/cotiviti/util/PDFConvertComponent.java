@@ -73,9 +73,7 @@ public class PDFConvertComponent {
         sb.append("\n\n\n");
       }
       CotivitiIOUtilities.writeString(Paths.get("target/myout.xml"), sb.toString());
-    } catch (
-
-    Exception e) {
+    } catch (Exception e) {
       Exception b = e;
     }
   }
@@ -117,6 +115,7 @@ public class PDFConvertComponent {
     writer.close();
     return writer.toString();
   }
+
   public static String savePDFXML(File pdfFile, int pageNumber) throws IOException {
     XMLOutputTarget target = new XMLOutputTarget();
     Document pdf = PDF.open(pdfFile);
